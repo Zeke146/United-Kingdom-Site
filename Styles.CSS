@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+ul{
+    border: 5px dotted;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    width: 50%;
+    margin: auto;
+}
+
+ul li{
+   border: 5px outset;
+   display: inline-block;
+   background-color: white;
+}
